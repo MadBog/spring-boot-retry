@@ -1,11 +1,11 @@
 # spring-boot-retry
 
-##Prequisites
+## Prequisites
 Java 8
 Maven 3
 
-##Build
+## Build
 mvn clean install
 
-##Run
+## Run
 mvn spring-boot:run
