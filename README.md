@@ -1,7 +1,7 @@
 # spring-boot-retry
 
 ## Prequisites
-Java 8
+Java 8 \n
 Maven 3
 
 ## Build
